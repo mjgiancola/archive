@@ -7,11 +7,23 @@ TBD
 ## Spring 2017
 
 ### Investigating "Learning to learn by gradient descent by gradient descent"
-#### TODO add pdf here...
+#### Written for CS 525: Deep Neural Networks at Worcester Polytechnic Institute
+#### [pdf](Investigating_Learning_to_learn.pdf)
+
+### Analysis of Breast Cancer Dataset
+#### Written for MA 463X: Data Analytics & Statistical Learning at Worcester Polytechnic Institute
+#### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf)
 
 ## Fall 2017
 
+### Predicting Bank License Revocation
+#### Written for my Interactive Qualifying Project at Worcester Polytechnic Institute
+#### [pdf](Predicting_Bank_License_Revocation.pdf)
+
 ## Spring 2016
+### How AI Affects the Work Force
+#### Written for WR 1011: Writing about Science & Technology at Worcester Polytechnic Institute
+#### [pdf](How_AI_Affects_Work_Force.pdf)
 
 You can use the [editor on GitHub](https://github.com/mjgiancola/papers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
