@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+<!--- ## Fall 2017: MQP, Inquiry Seminar Paper --->
+
+## Summer 2017
+
+TBD
+
+## Spring 2017
+
+### Investigating "Learning to learn by gradient descent by gradient descent"
+#### TODO add pdf here...
+
+## Fall 2017
+
+## Spring 2016
 
 You can use the [editor on GitHub](https://github.com/mjgiancola/papers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
