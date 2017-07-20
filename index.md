@@ -8,10 +8,12 @@ TBD
 
 #### Investigating "Learning to learn by gradient descent by gradient descent"
 ##### Written for CS 525: Deep Neural Networks at Worcester Polytechnic Institute
-##### [pdf](Investigating_Learning_to_learn.pdf)  
-### Analysis of Breast Cancer Dataset
-#### Written for MA 463X: Data Analytics & Statistical Learning at Worcester Polytechnic Institute
-#### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf)
+##### [pdf](Investigating_Learning_to_learn.pdf)
+<br/>
+
+#### Analysis of Breast Cancer Dataset
+##### Written for MA 463X: Data Analytics & Statistical Learning at Worcester Polytechnic Institute
+##### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf)
 
 
 ---
@@ -21,7 +23,7 @@ TBD
 
 #### Predicting Bank License Revocation
 ##### Written for my Interactive Qualifying Project at Worcester Polytechnic Institute
-##### [pdf](Predicting_Bank_License_Revocation.pdf)
+##### [pdf](Predicting_Bank_License_Revocation.pdf) | Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
 
 
 ---
