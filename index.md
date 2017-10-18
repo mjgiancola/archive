@@ -1,8 +1,11 @@
-<!--- ## Fall 2017: MQP, Inquiry Seminar Paper --->
+## Fall 2017
 
-## Summer 2017
+#### Forecasting the Impacts of Autonomous Vehicles
+##### Written for HU 3900: Philosophy and the City: Urban Humanities at Worcester Polytechnic Institute
+##### [pdf](Giancola_Seminar_Report.pdf)
 
-TBD
+
+---
 
 ## Spring 2017
 
@@ -13,7 +16,7 @@ TBD
 
 #### Analysis of Breast Cancer Dataset
 ##### Written for MA 463X: Data Analytics & Statistical Learning at Worcester Polytechnic Institute
-##### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf)
+##### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf) | [code](https://github.com/mjgiancola/wpi-ma-463x-project)
 
 
 ---
