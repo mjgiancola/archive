@@ -21,7 +21,6 @@
 
 ---
 
-
 ## Fall 2017
 
 #### Predicting Bank License Revocation
@@ -31,8 +30,12 @@
 
 ---
 
-
 ## Spring 2016
+
+#### Interactive Proof Systems
+##### Written for MA 4891: Introduction to Game Theory at Worcester Polytechnic Institute
+##### [pdf](Interactive_Proof_Systems.pdf)
+<br/>
 
 #### How AI Affects the Work Force
 ##### Written for WR 1011: Writing about Science & Technology at Worcester Polytechnic Institute
