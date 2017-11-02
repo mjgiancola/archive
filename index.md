@@ -15,7 +15,7 @@ title: papers
 
 #### Investigating "Learning to learn by gradient descent by gradient descent"
 ##### Written for CS 525: Deep Neural Networks at Worcester Polytechnic Institute
-##### [pdf](Investigating_Learning_to_learn.pdf)
+##### [pdf](Investigating_Learning_to_learn.pdf) | [code](https://github.com/mjgiancola/cs-525-project)
 <br/>
 
 #### Analysis of Breast Cancer Dataset
@@ -29,7 +29,7 @@ title: papers
 
 #### Predicting Bank License Revocation
 ##### Written for my Interactive Qualifying Project at Worcester Polytechnic Institute
-##### [pdf](Predicting_Bank_License_Revocation.pdf) | Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
+##### [pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics) | Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
 
 
 ---
