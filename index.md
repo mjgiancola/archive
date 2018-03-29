@@ -2,6 +2,17 @@
 title: papers
 ---
 
+
+## Spring 2018
+
+#### Permutation-Invariant Consensus over Crowdsourced Labels
+##### Accepted to [HComp 2018](https://www.humancomputation.com/2018/)
+##### Written for my Major Qualifying Project at Worcester Polytechnic Institute
+##### [pdf](HComp_Submission.pdf) | [code](https://github.com/mjgiancola/MQP)
+
+
+---
+
 ## Fall 2017
 
 #### Forecasting the Impacts of Autonomous Vehicles
