@@ -6,9 +6,10 @@ title: papers
 ## Spring 2018
 
 #### Permutation-Invariant Consensus over Crowdsourced Labels
-##### Accepted to [HComp 2018](https://www.humancomputation.com/2018/)
-##### Written for my Major Qualifying Project at Worcester Polytechnic Institute
-##### [pdf](HComp_Submission.pdf) | [code](https://github.com/mjgiancola/MQP)
+##### Accepted to [HCOMP 2018](https://www.humancomputation.com/2018/)
+##### Written for my Major Qualifying Project (MQP) at Worcester Polytechnic Institute
+##### Winner of the Provost's MQP Award in Mathematical Sciences
+##### [pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
 
 
 ---
