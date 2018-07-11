@@ -6,9 +6,10 @@ title: papers
 ## Spring 2018
 
 #### Permutation-Invariant Consensus over Crowdsourced Labels
-##### Accepted to [HCOMP 2018](https://www.humancomputation.com/2018/)
-##### Written for my Major Qualifying Project (MQP) at Worcester Polytechnic Institute
-##### Winner of the Provost's MQP Award in Mathematical Sciences
+##### Published in [HCOMP 2018](https://www.aaai.org/Library/HCOMP/hcomp18contents.php)
+##### Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/)
+##### [Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
+##### Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute
 ##### [pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
 
 
@@ -41,7 +42,8 @@ title: papers
 
 #### Predicting Bank License Revocation
 ##### Written for my Interactive Qualifying Project at Worcester Polytechnic Institute
-##### [pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics) | Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
+##### [pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics)
+##### Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
 
 
 ---
