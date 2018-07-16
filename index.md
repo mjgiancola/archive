@@ -8,10 +8,10 @@ title: papers
 #### Permutation-Invariant Consensus over Crowdsourced Labels
 ##### Published in [HCOMP 2018](https://www.aaai.org/Library/HCOMP/hcomp18contents.php)
 ##### Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/)
-##### [Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
 ##### Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute
 ##### [pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
-
+##### [Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland
+##### [Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
 
 ---
 
