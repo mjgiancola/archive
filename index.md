@@ -8,6 +8,8 @@ title: papers
 ##### Written for MA 4030: Computability & Logic at Rensselaer Polytechnic Institute
 ##### [pdf](Inferential_Inconsistency.pdf)
 
+---
+
 ## Spring 2018
 
 #### Permutation-Invariant Consensus over Crowdsourced Labels
