@@ -2,6 +2,11 @@
 title: papers
 ---
 
+## Spring 2019
+#### Investigations of Inferential Inconsistency
+##### An informal survey paper of the history of inferential inconsistency.
+##### Written for MA 4030: Computability & Logic at Rensselaer Polytechnic Institute
+##### [pdf](Inferential_Inconsistency.pdf)
 
 ## Spring 2018
 
