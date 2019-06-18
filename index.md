@@ -20,30 +20,30 @@ Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Appro
 
 ## Spring 2019
 #### Investigations of Inferential Inconsistency
-##### An informal survey paper of the history of inferential inconsistency.
-##### Written for MA 4030: Computability & Logic at Rensselaer Polytechnic Institute
-##### [pdf](Inferential_Inconsistency.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An informal survey paper of the history of inferential inconsistency.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 4030: Computability & Logic at RPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Inferential_Inconsistency.pdf)
 
 ---
 
 ## Fall 2017
 
 #### Forecasting the Impacts of Autonomous Vehicles
-##### Written for HU 3900: Philosophy and the City: Urban Humanities at Worcester Polytechnic Institute
-##### [pdf](Giancola_Seminar_Report.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for HU 3900: Philosophy and the City: Urban Humanities at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Giancola_Seminar_Report.pdf)
 
 ---
 
 ## Spring 2017
 
 #### Investigating "Learning to learn by gradient descent by gradient descent"
-##### Written for CS 525: Deep Neural Networks at Worcester Polytechnic Institute
-##### [pdf](Investigating_Learning_to_learn.pdf) | [code](https://github.com/mjgiancola/cs-525-project)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for CS 525: Deep Neural Networks at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Investigating_Learning_to_learn.pdf) | [code](https://github.com/mjgiancola/cs-525-project)
 <br/>
 
 #### Analysis of Breast Cancer Dataset
-##### Written for MA 463X: Data Analytics & Statistical Learning at Worcester Polytechnic Institute
-##### [pdf](Analysis_of_Breast_Cancer_Dataset.pdf) | [code](https://github.com/mjgiancola/wpi-ma-463x-project)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 463X: Data Analytics & Statistical Learning at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Analysis_of_Breast_Cancer_Dataset.pdf) | [code](https://github.com/mjgiancola/wpi-ma-463x-project)
 
 
 ---
@@ -51,20 +51,19 @@ Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Appro
 ## Fall 2017
 
 #### Predicting Bank License Revocation
-##### Written for my Interactive Qualifying Project at Worcester Polytechnic Institute
-##### [pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics)
-##### Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for my Interactive Qualifying Project at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics)
 
 ---
 
 ## Spring 2016
 
 #### Interactive Proof Systems
-##### Written for MA 4891: Introduction to Game Theory at Worcester Polytechnic Institute
-##### [pdf](Interactive_Proof_Systems.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 4891: Introduction to Game Theory at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Interactive_Proof_Systems.pdf)
 <br/>
 
 #### How AI Affects the Work Force
-##### Written for WR 1011: Writing about Science & Technology at Worcester Polytechnic Institute
-##### [pdf](How_AI_Affects_Work_Force.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for WR 1011: Writing about Science & Technology at WPI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](How_AI_Affects_Work_Force.pdf)
