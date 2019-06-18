@@ -2,6 +2,22 @@
 title: papers
 ---
 
+# Publications
+
+#### Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019.
+<br/>
+
+#### **Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018.
+##### Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/)
+##### Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute
+##### [pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
+##### [Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland
+##### [Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
+
+---
+
+# Other Work
+
 ## Spring 2019
 #### Investigations of Inferential Inconsistency
 ##### An informal survey paper of the history of inferential inconsistency.
@@ -10,24 +26,11 @@ title: papers
 
 ---
 
-## Spring 2018
-
-#### Permutation-Invariant Consensus over Crowdsourced Labels
-##### Published in [HCOMP 2018](https://www.aaai.org/Library/HCOMP/hcomp18contents.php)
-##### Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/)
-##### Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute
-##### [pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
-##### [Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland
-##### [Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
-
----
-
 ## Fall 2017
 
 #### Forecasting the Impacts of Autonomous Vehicles
 ##### Written for HU 3900: Philosophy and the City: Urban Humanities at Worcester Polytechnic Institute
 ##### [pdf](Giancola_Seminar_Report.pdf)
-
 
 ---
 
