@@ -7,17 +7,12 @@ title: papers
 Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019.
 <br/>
 
-**Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18)
+**Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at Worcester Polytechnic Institute <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18) <br>
 
 ---
 
