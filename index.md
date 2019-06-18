@@ -51,7 +51,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Appro
 
 #### Predicting Bank License Revocation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for my Interactive Qualifying Project at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published in WPI's [Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics) <br>
 
 ---
