@@ -5,7 +5,7 @@ title: papers
 # Publications
 
 Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publication Forthcoming | [code](https://github.com/jsburklund/RobotAggregation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (arXiv preprint)](https://arxiv.org/pdf/1901.10423.pdf) | [code](https://github.com/jsburklund/RobotAggregation)
 <br/>
 
 **Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018. <br>
