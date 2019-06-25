@@ -4,7 +4,7 @@ title: papers
 
 # Publications
 
-Mitrano, P., Burklund, J., **Giancola, M.**, Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
+Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (arXiv preprint)](https://arxiv.org/pdf/1901.10423.pdf) | [code](https://github.com/jsburklund/RobotAggregation)
 <br/>
 
