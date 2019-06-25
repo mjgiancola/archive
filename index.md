@@ -27,7 +27,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
-## Fall 2018
+## Fall 2017
 
 #### Forecasting the Impacts of Autonomous Vehicles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for HU 3900: Philosophy and the City: Urban Humanities at WPI <br>
@@ -48,7 +48,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
-## Fall 2017
+## Fall 2016
 
 #### Predicting Bank License Revocation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for my Interactive Qualifying Project at WPI <br>
