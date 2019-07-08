@@ -17,6 +17,14 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
+# Presentations
+
+#### Inconsistency in Aviation Safety Systems: A Case Study
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presented at a Symposium on AI & Consistency at RAIR Lab at RPI <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Inconsistency_Symposium_Presentation.ppsx) <br>
+
+---
+
 # Other Work
 
 ## Spring 2019
