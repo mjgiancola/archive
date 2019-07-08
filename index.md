@@ -9,19 +9,24 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 <br/>
 
 **Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](HCOMP_Presentation.ppsx) Presented July 7th, 2018 at HCOMP in Zurich, Switzerland <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](MQP_Poster.pdf) Presented at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2018/Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
 
 ---
 
 # Presentations
 
 #### Inconsistency in Aviation Safety Systems: A Case Study
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presented at a Symposium on AI & Consistency at RAIR Lab at RPI <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presented July 8th, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposium on AI & Consistency, RAIR Lab, RPI <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Inconsistency_Symposium_Presentation.ppsx) <br>
+<br/>
+
+#### Permutation-invariant consensus over crowdsourced labels
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk given on July 7th, 2018 at [HCOMP](https://www.humancomputation.com/2018/), Zurich, Switzerland <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poster presented on July 10th, 2018 at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2018/HCOMP_Presentation.ppsx) | [poster](2018/MQP_Poster.pdf) <br>
 
 ---
 
@@ -31,7 +36,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 #### Investigations of Inferential Inconsistency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An informal survey paper of the history of inferential inconsistency. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 4030: Computability & Logic at RPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Inferential_Inconsistency.pdf) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2019/Inferential_Inconsistency.pdf) <br>
 
 ---
 
@@ -39,7 +44,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 #### Forecasting the Impacts of Autonomous Vehicles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for HU 3900: Philosophy and the City: Urban Humanities at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Giancola_Seminar_Report.pdf) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2017/Giancola_Seminar_Report.pdf) <br>
 
 ---
 
@@ -47,12 +52,12 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 #### Investigating "Learning to learn by gradient descent by gradient descent"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for CS 525: Deep Neural Networks at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Investigating_Learning_to_learn.pdf) | [code](https://github.com/mjgiancola/cs-525-project)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2017/Investigating_Learning_to_learn.pdf) | [code](https://github.com/mjgiancola/cs-525-project)
 <br/>
 
 #### Analysis of Breast Cancer Dataset
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 463X: Data Analytics & Statistical Learning at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Analysis_of_Breast_Cancer_Dataset.pdf) | [code](https://github.com/mjgiancola/wpi-ma-463x-project) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2017/Analysis_of_Breast_Cancer_Dataset.pdf) | [code](https://github.com/mjgiancola/wpi-ma-463x-project) <br>
 
 ---
 
@@ -61,7 +66,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 #### Predicting Bank License Revocation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for my Interactive Qualifying Project at WPI <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-101716-093448/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2016/Predicting_Bank_License_Revocation.pdf) | [code](https://github.com/mjgiancola/banks_analytics) <br>
 
 ---
 
@@ -69,9 +74,9 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 #### Interactive Proof Systems
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for MA 4891: Introduction to Game Theory at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](Interactive_Proof_Systems.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2016/Interactive_Proof_Systems.pdf)
 <br/>
 
 #### How AI Affects the Work Force
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Written for WR 1011: Writing about Science & Technology at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](How_AI_Affects_Work_Force.pdf) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2016/How_AI_Affects_Work_Force.pdf) <br>
