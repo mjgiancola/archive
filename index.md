@@ -4,7 +4,10 @@ title: papers
 
 # Publications
 
-Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms''. In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
+Govindarajulu, N. S., Bringsjord, S., **Giancola, M.**, "Argument Adjudication in a Deontic Logic". In Fourth International Conference on Robot Ethics and Standards. 2019 (Forthcoming).
+<br/>
+
+Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms". In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (arXiv preprint)](https://arxiv.org/pdf/1901.10423.pdf) | [code](https://github.com/jsburklund/RobotAggregation)
 <br/>
 
@@ -17,16 +20,39 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 # Presentations
 
-#### Inconsistency in Aviation Safety Systems: A Case Study
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presented July 8th, 2019 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symposium on AI & Consistency, RAIR Lab, RPI <br>
+#### Fourth International Conference on Robot Ethics and Standards (ICRES)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th, 2019 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London South Bank University <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Argument Adjudication in a Deontic Logic" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides (Keynote)](2019/ICRES_Arg_Adj_Pres.key) | [slides (PDF)](2019/ICRES_Arg_Adj_Pres.pdf) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Toward Smart Cities at the Mental Level via TAI Agents" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides (Keynote)](2019/ICRES_TAI_Pres.key) | [slides (PDF)](2019/ICRES_TAI_Pres.pdf) <br>
+<br/>
+
+#### Symposium on AI & Consistency
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 8th, 2019 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAIR Lab, RPI, Troy, NY, USA <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Inconsistency in Aviation Safety Systems: A Case Study" <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Inconsistency_Symposium_Presentation.ppsx) <br>
 <br/>
 
-#### Permutation-invariant consensus over crowdsourced labels
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk given on July 7th, 2018 at [HCOMP](https://www.humancomputation.com/2018/), Zurich, Switzerland <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poster presented on July 10th, 2018 at [SIAM Annual Meeting 2018](https://www.siam.org/Conferences/CM/Main/an18) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2018/HCOMP_Presentation.ppsx) | [poster](2018/MQP_Poster.pdf) <br>
+#### SIAM Annual Meeting
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 10th, 2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oregon Convention Center, Portland, Oregon, USA <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poster on "Permutation-Invariant Consensus over Crowdsourced Labels" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[poster](2018/MQP_Poster.pdf) <br>
+<br/>
+
+#### Sixth AAAI Conference on Human Computation & Crowdsourcing (HCOMP)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 7th, 2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Zurich, Zurich, Switzerland <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Permutation-Invariant Consensus over Crowdsourced Labels" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2018/HCOMP_Presentation.ppsx) <br>
 
 ---
 
