@@ -21,7 +21,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 # Presentations
 
 #### Fourth International Conference on Robot Ethics and Standards (ICRES)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th, 2019 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th & 30th, 2019 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London South Bank University <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Argument Adjudication in a Deontic Logic" <br>
