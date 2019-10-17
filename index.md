@@ -1,5 +1,5 @@
 ---
-title: papers
+title: archive
 ---
 
 # Publications
