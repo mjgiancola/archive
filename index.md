@@ -13,7 +13,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 **Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at WPI <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extended version published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2018/Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
 
 ---
