@@ -4,6 +4,12 @@ title: archive
 
 # Publications
 
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., Licato, J., "Adjudication of Symbolic \& Connectionist Arguments in Autonomous Driving AI". In Sixth Global Conference on Artficial Intelligence (GCAI). 2020 (Forthcoming).
+<br/>
+
+Bringsjord, S., Govindarajulu, N. S., Licato, J., **Giancola, M.**, "Learning *Ex Nihilo*". In Sixth Global Conference on Artficial Intelligence (GCAI). 2020 (Forthcoming).
+<br/>
+
 Govindarajulu, N. S., Bringsjord, S., **Giancola, M.**, "Argument Adjudication in a Deontic Logic". In Fourth International Conference on Robot Ethics and Standards. 2019 (Forthcoming).
 <br/>
 
