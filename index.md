@@ -4,13 +4,15 @@ title: archive
 
 # Publications
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., Licato, J., "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In Sixth Global Conference on Artficial Intelligence (GCAI). 2020 (Forthcoming).
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI. In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI  2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4)
 <br/>
 
-Bringsjord, S., Govindarajulu, N. S., Licato, J., **Giancola, M.**, "Learning *Ex Nihilo*". In Sixth Global Conference on Artficial Intelligence (GCAI). 2020 (Forthcoming).
+Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. Learning Ex Nihilo. In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020a. doi: 10.29007/ggcf.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG)
 <br/>
 
-Govindarajulu, N. S., Bringsjord, S., **Giancola, M.**, "Argument Adjudication in a Deontic Logic". In Fourth International Conference on Robot Ethics and Standards. 2019 (Forthcoming).
+Govindarajulu, N. S., Bringsjord, S., and **Giancola, M.**, "Argument Adjudication in a Deontic Logic". In Fourth International Conference on Robot Ethics and Standards. 2019 (Forthcoming).
 <br/>
 
 Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms". In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
