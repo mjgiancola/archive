@@ -8,7 +8,7 @@ title: archive
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4)
 <br/>
 
-Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. Learning Ex Nihilo. In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020a. doi: 10.29007/ggcf. <br>
+Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. Learning Ex Nihilo. In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020. doi: 10.29007/ggcf. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG)
 <br/>
 
