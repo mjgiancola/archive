@@ -26,6 +26,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at WPI <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extended version published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2018/Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PICA-Presentation">presentation</a> | <a href="#PICA-Poster">poster</a> <br>
 
 ---
 
@@ -51,6 +52,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 <br/>
 
 #### SIAM Annual Meeting
+<a name="PICA-Poster"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 10th, 2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oregon Convention Center, Portland, Oregon, USA <br>
 
@@ -59,6 +61,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 <br/>
 
 #### Sixth AAAI Conference on Human Computation & Crowdsourcing (HCOMP)
+<a name="PICA-Presentation"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 7th, 2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Zurich, Zurich, Switzerland <br>
 
