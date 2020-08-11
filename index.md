@@ -7,7 +7,8 @@ title: archive
 **Giancola, M.**, Govindarajulu, N. S., Bringsjord, S., Varela, C., Ethical Reasoning for Autonomous Agents Under Uncertainty. In Fifth International Conference on Robot Ethics and Standards (ICRES). Forthcoming.
 <br/>
 
-Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them. In Robophilosophy 2020. Forthcoming.
+Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them. In Robophilosophy 2020. Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#RP2020-Presentation">presentation</a> <br>
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI. In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI  2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
@@ -32,6 +33,14 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 # Presentations
 
+<a name="RP2020-Presentation"></a>
+#### International Research Conference on Robophilosophy 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 18th -- 21st, 2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[presentation](http://kryten.mm.rpi.edu/PRES/RP2020BRINGSJORDetal/SB_MG_NSG_RP2020.mov)
+
 #### Fourth International Conference on Robot Ethics and Standards (ICRES)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th & 30th, 2019 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London South Bank University <br>
@@ -51,8 +60,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Inconsistency_Symposium_Presentation.ppsx) <br>
 <br/>
 
-#### SIAM Annual Meeting
 <a name="PICA-Poster"></a>
+#### SIAM Annual Meeting
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 10th, 2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oregon Convention Center, Portland, Oregon, USA <br>
 
@@ -60,8 +69,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[poster](2018/MQP_Poster.pdf) <br>
 <br/>
 
-#### Sixth AAAI Conference on Human Computation & Crowdsourcing (HCOMP)
 <a name="PICA-Presentation"></a>
+#### Sixth AAAI Conference on Human Computation & Crowdsourcing (HCOMP)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 7th, 2018 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Zurich, Zurich, Switzerland <br>
 
