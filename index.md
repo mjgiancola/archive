@@ -8,7 +8,7 @@ title: archive
 <br/>
 
 Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them. In Robophilosophy 2020. Forthcoming. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#RP2020-Presentation">presentation</a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#RP2020-Presentation">presentation</a>
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI. In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI  2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
