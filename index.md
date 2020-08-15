@@ -4,7 +4,7 @@ title: archive
 
 # Publications
 
-**Giancola, M.**, Govindarajulu, N. S., Bringsjord, S., Varela, C., Ethical Reasoning for Autonomous Agents Under Uncertainty. In Fifth International Conference on Robot Ethics and Standards (ICRES). Forthcoming. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., Varela, C., Ethical Reasoning for Autonomous Agents Under Uncertainty. In Fifth International Conference on Robot Ethics and Standards (ICRES). Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2020/MG_SB_NSG_CV_Ethical_Reasoning_Camera_Ready.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning)
 <br/>
 
