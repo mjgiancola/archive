@@ -4,19 +4,19 @@ title: archive
 
 # Publications
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., Ethical Reasoning for Autonomous Agents Under Uncertainty” in Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., "Ethical Reasoning for Autonomous Agents Under Uncertainty". In Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning)
 <br/>
 
-Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them. In Robophilosophy 2020. Forthcoming. <br>
+Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them". In Robophilosophy 2020. Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#RP2020-Presentation">presentation</a>
 <br/>
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI. In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI  2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI  2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4)
 <br/>
 
-Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. Learning Ex Nihilo. In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020. doi: 10.29007/ggcf. <br>
+Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. "Learning Ex Nihilo". In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020. doi: 10.29007/ggcf. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG)
 <br/>
 
