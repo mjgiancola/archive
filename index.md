@@ -2,10 +2,12 @@
 title: archive
 ---
 
-<a style="font-weight:bold;text-align:center" href="#Publications">Publications</a> <br>
-<a style="font-weight:bold;text-align:center" href="#Lectures">Guest Lectures</a> <br>
-<a style="font-weight:bold;text-align:center" href="#Presentations">Presentations</a> <br>
-<a style="font-weight:bold;text-align:center" href="#OtherWork">Other Work</a> <br>
+<div style="text-align:center">    
+  <a style="font-weight:bold" href="#Publications">Publications</a> <br>
+  <a style="font-weight:bold" href="#Lectures">Guest Lectures</a> <br>
+  <a style="font-weight:bold" href="#Presentations">Presentations</a> <br>
+  <a style="font-weight:bold" href="#OtherWork">Other Work</a> <br>
+</div>
 
 ---
 
