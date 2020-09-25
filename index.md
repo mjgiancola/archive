@@ -2,13 +2,13 @@
 title: archive
 ---
 
-<a href="#Publications">Publcations</a> <br>
-<a href="#Lectures">Guest Lectures</a> <br>
-<a href="#Presentations">Presentations</a> <br>
-<a href="#OtherWork">Other Work</a> <br>
+<a style="font-weight:bold" href="#Publications">Publications</a> <br>
+<a style="font-weight:bold" href="#Lectures">Guest Lectures</a> <br>
+<a style="font-weight:bold" href="#Presentations">Presentations</a> <br>
+<a style="font-weight:bold" href="#OtherWork">Other Work</a> <br>
 
-# Publications
 <a name="Publications"></a>
+# Publications
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., "Ethical Reasoning for Autonomous Agents Under Uncertainty". In Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning)
@@ -38,8 +38,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
-# Guest Lectures
 <a name="Lectures"></a>
+# Guest Lectures
 
 #### Intermediate Formal Logic & AI -- Professor Selmer Bringsjord
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2020 <br>
@@ -71,8 +71,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
-# Presentations
 <a name="Presentations"></a>
+# Presentations
 
 <a name="RP2020-Presentation"></a>
 #### International Research Conference on Robophilosophy 2020
@@ -121,8 +121,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
-# Other Work
 <a name="OtherWork"></a>
+# Other Work
 
 ## Spring 2019
 #### Investigations of Inferential Inconsistency
