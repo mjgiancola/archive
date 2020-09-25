@@ -2,7 +2,13 @@
 title: archive
 ---
 
+<a href="#Publications">Publcations</a> <br>
+<a href="#Lectures">Guest Lectures</a> <br>
+<a href="#Presentations">Presentations</a> <br>
+<a href="#OtherWork">Other Work</a> <br>
+
 # Publications
+<a name="Publications"></a>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., "Ethical Reasoning for Autonomous Agents Under Uncertainty". In Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning)
@@ -32,7 +38,41 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ---
 
+# Guest Lectures
+<a name="Lectures"></a>
+
+#### Intermediate Formal Logic & AI -- Professor Selmer Bringsjord
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rensselaer Polytechnic Institute <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 24 - "Reasoning with Inconsistency" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2020/Reasoning_with_Inconsistency.pdf) <br>
+<br/>
+
+#### Are Humans Rational? -- Professor Selmer Bringsjord
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2019 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rensselaer Polytechnic Institute <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 16 - "'Artilects' and the Mechanisms of Cognition" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Artilects_and_Mechanisms_of_Cognition.pdf) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 30 - "Rationality & The Meaning of Life" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/PT_MeaningLife.pdf)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 3 - "The Singularity, Rationally Considered" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/AHR_Sing_MiniMax.pdf) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 17 - "Logicist Machine Ethics Can Save Us" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/Logicist_Machine_Ethics_Can_Save_Us.pdf) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 21 - "The Dangers of Inconsistency" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2019/The_Dangers_of_Inconsistency.pdf) <br>
+<br/>
+
+---
+
 # Presentations
+<a name="Presentations"></a>
 
 <a name="RP2020-Presentation"></a>
 #### International Research Conference on Robophilosophy 2020
@@ -41,6 +81,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them" <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[presentation](http://kryten.mm.rpi.edu/PRES/RP2020BRINGSJORDetal/SB_MG_NSG_RP2020.mov)
+<br/>
 
 #### Fourth International Conference on Robot Ethics and Standards (ICRES)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th & 30th, 2019 <br>
@@ -81,6 +122,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 ---
 
 # Other Work
+<a name="OtherWork"></a>
 
 ## Spring 2019
 #### Investigations of Inferential Inconsistency
