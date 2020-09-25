@@ -7,6 +7,8 @@ title: archive
 <a style="font-weight:bold" href="#Presentations">Presentations</a> <br>
 <a style="font-weight:bold" href="#OtherWork">Other Work</a> <br>
 
+---
+
 <a name="Publications"></a>
 # Publications
 
