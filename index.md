@@ -15,7 +15,7 @@ title: archive
 # Publications
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., "Ethical Reasoning for Autonomous Agents Under Uncertainty". In Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning) | <a href="#ICRES2020-Presentation">presentation</a>
 <br/>
 
 Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them". In Robophilosophy 2020. Forthcoming. <br>
@@ -78,10 +78,19 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 <a name="Presentations"></a>
 # Presentations
 
+<a name="ICRES2020-Presentation"></a>
+#### Fifth International Conference on Robot Ethics and Standards (ICRES)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;September 28th & 29th, 2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual (Hosted at the Industrial Technology Research Institute, Taipei, Taiwan) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Ethical Reasoning For Autonomous Agents Under Uncertainty" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2020/Uncertain_Ethical_Reasoning_Slides.pdf) | presentation (to come) <br>
+<br/>
+
 <a name="RP2020-Presentation"></a>
 #### International Research Conference on Robophilosophy 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 18th -- 21st, 2020 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual (Hosted at Aarhus University, Aarhus, Denmark) <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them" <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[presentation](http://kryten.mm.rpi.edu/PRES/RP2020BRINGSJORDetal/SB_MG_NSG_RP2020.mov)
@@ -89,7 +98,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 #### Fourth International Conference on Robot Ethics and Standards (ICRES)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 29th & 30th, 2019 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London South Bank University <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London South Bank University, London, UK <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Argument Adjudication in a Deontic Logic" <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides (Keynote)](2019/ICRES_Arg_Adj_Pres.key) | [slides (PDF)](2019/ICRES_Arg_Adj_Pres.pdf) <br>
