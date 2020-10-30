@@ -29,11 +29,11 @@ Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Toward Defeasible Multi
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_GCAI_Driving)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_GCAI_Driving) | <a href="#GCAI2020-Presentation">presentation</a>
 <br/>
 
 Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. "Learning Ex Nihilo". In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020. doi: 10.29007/ggcf. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG) | <a href="#GCAI2020-Presentation">presentation</a>
 <br/>
 
 Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms". In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
@@ -83,6 +83,18 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 <a name="Presentations"></a>
 # Presentations
+
+<a name="GCAI2020-Presentation"></a>
+#### Sixth Global Conference on Artificial Intelligence (GCAI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 30th, 2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual (Hosted at Zhejiang University, Hangzhou, China) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2020/Adjudication_Presentation.pdf) | presentation (to come) <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Learning Ex Nihilo" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[slides](2020/LEN_Presentation.pdf) | presentation (to come) <br>
+<br/>
 
 <a name="ICRES2020-Presentation"></a>
 #### Fifth International Conference on Robot Ethics and Standards (ICRES)
