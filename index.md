@@ -20,30 +20,30 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 
 ## Conference Papers
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C., "Ethical Reasoning for Autonomous Agents Under Uncertainty". In Tokhi, M.O., Ferreira, M.I.A., Govindarajulu, N.S., Silva, M.F., Kadar, E.E., Wang, Jen-Chien, Kaur, A.P., eds., Smart Living and Quality Health with Robots, Proceedings of ICRES 2020, Taipai, Taiwan September 28-29 2020 (London, UK: CLAWAR), pp. 26-41. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., Varela, C. "Ethical Reasoning for Autonomous Agents Under Uncertainty". In: Smart Living and Quality Health with Robots (Proceedings of ICRES 2020). Ed. by M.O. Tokhi, M.I.A. Ferreira, N.S. Govindarajulu, M.F. Silva, E.E. Kadar, J. Wang, and A.P. Kaur. London, UK: CLAWAR, Sept. 2020, pp. 26–41. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning) | <a href="#ICRES2020-Presentation">presentation</a>
 <br/>
 
-Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Toward Defeasible Multi-Operator Argumentation Systems for Culturally Aware Social Robots that Carry Humans Inside Them". In Robophilosophy 2020. Forthcoming. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#RP2020-Presentation">presentation</a>
+Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Culturally Aware Social Robots That Carry Humans Inside Them, Protected by Defeasible Argumentation Systems". In: Culturally Sustainable Social Robotics (Proceedings of Robophilosophy 2020). Ed. by M. Nørskov, J. Seibt, and O. S. Quick. Volume 335 of Frontiers in Artificial Intelligence and Applications. IOS Press, 2020, pp. 440–456. doi: 10.3233/FAIA200941. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (preprint)](https://mjgiancola.github.io/archive/2020/SB_MG_NSG_Culturally_Aware_Social_Robots.pdf) | <a href="#RP2020-Presentation">presentation</a>
 <br/>
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In Gregoire Danoy, Jun Pang, and Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 28–33. EasyChair, 2020. doi: 10.29007/k647. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_GCAI_Driving) | <a href="#GCAI2020-Presentation">presentation</a>
 <br/>
 
-Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. "Learning Ex Nihilo". In Gregoire Danoy, Jun Pang, and  Geoff Sutcliffe, editors, GCAI 2020. 6th Global Conference on Artificial Intelligence (GCAI 2020), volume 72 of EPiC Series in Computing, pages 1–27. EasyChair, 2020. doi: 10.29007/ggcf. <br>
+Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. "Learning Ex Nihilo". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 1-27. doi: 10.29007/ggcf. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/NzWG) | <a href="#GCAI2020-Presentation">presentation</a>
 <br/>
 
-Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms". In Second IEEE International Symposium on Multi-Robot and Multi-Agent Systems. 2019. <br>
+Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic Approach to Segregation in Robot Swarms". In: Second International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2019). IEEE, 2019, pp. 105-111. doi: 10.1109/MRS.2019.8901068 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (arXiv preprint)](https://arxiv.org/pdf/1901.10423.pdf) | [code](https://github.com/jsburklund/RobotAggregation)
 <br/>
 
-**Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-invariant consensus over crowdsourced labels". In Sixth AAAI Conference on Human Computation and Crowdsourcing. 2018. <br>
+**Giancola, M.**, Paffenroth, R., and Whitehill, J. "Permutation-Invariant Consensus Over Crowdsourced Labels". In: Proceedings of the Sixth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2018). AAAI Press, 2018, pp. 21-30. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of the Provost's MQP Award in Mathematical Sciences at WPI <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extended version published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2018/Giancola_Paffenroth_Whitehill_2018.pdf) | [code](https://github.com/mjgiancola/MQP) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://aaai.org/ocs/index.php/HCOMP/HCOMP18/paper/viewFile/17918/16906) | [code](https://github.com/mjgiancola/MQP) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PICA-Presentation">presentation</a> | <a href="#PICA-Poster">poster</a> <br>
 
 ---
