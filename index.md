@@ -25,7 +25,7 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 <br/>
 
 Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Culturally Aware Social Robots That Carry Humans Inside Them, Protected by Defeasible Argumentation Systems". In: Culturally Sustainable Social Robotics (Proceedings of Robophilosophy 2020). Ed. by M. Nørskov, J. Seibt, and O. S. Quick. Volume 335 of Frontiers in Artificial Intelligence and Applications. IOS Press, 2020, pp. 440–456. doi: 10.3233/FAIA200941. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf (preprint)](https://mjgiancola.github.io/archive/2020/SB_MG_NSG_Culturally_Aware_Social_Robots.pdf) | <a href="#RP2020-Presentation">presentation</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2020/SB_MG_NSG_Culturally_Aware_Social_Robots.pdf) | <a href="#RP2020-Presentation">presentation</a>
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
