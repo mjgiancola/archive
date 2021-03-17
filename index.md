@@ -16,7 +16,14 @@ title: archive
 
 ## Journal Articles
 
-Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjudication to Solve Ethical Problems in Multi-Agent Environments". In Paladyn, Journal of Behavioral Robotics. Forthcoming.
+Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjudication to Solve Ethical Problems in Multi-Agent Environments". In: Paladyn, Journal of Behavioral Robotics. Forthcoming.
+
+## Book Chapters
+
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood \& Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
+<br/>
+
+Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
 
 ## Conference Papers
 
@@ -26,10 +33,6 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 
 Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S., "Culturally Aware Social Robots That Carry Humans Inside Them, Protected by Defeasible Argumentation Systems". In: Culturally Sustainable Social Robotics (Proceedings of Robophilosophy 2020). Ed. by M. Nørskov, J. Seibt, and O. S. Quick. Volume 335 of Frontiers in Artificial Intelligence and Applications. IOS Press, 2020, pp. 440–456. doi: 10.3233/FAIA200941. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2020/SB_MG_NSG_Culturally_Aware_Social_Robots.pdf) | <a href="#RP2020-Presentation">presentation</a>
-<br/>
-
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_GCAI_Driving) | <a href="#GCAI2020-Presentation">presentation</a>
 <br/>
 
 Bringsjord, S., Govindarajulu, N. S., Licato, J., and **Giancola, M.**. "Learning Ex Nihilo". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 1-27. doi: 10.29007/ggcf. <br>
@@ -44,7 +47,17 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Winner of the Provost's MQP Award](https://www.wpi.edu/about/awards/provosts-mqp-awards) in Mathematical Sciences at WPI <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extended version published in [WPI's Electronic Projects Collection](https://web.wpi.edu/Pubs/E-project/Available/E-project-042218-194555/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://aaai.org/ocs/index.php/HCOMP/HCOMP18/paper/viewFile/17918/16906) | [code](https://github.com/mjgiancola/MQP) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PICA-Presentation">presentation</a> | <a href="#PICA-Poster">poster</a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#PICA-Presentation">presentation</a> | <a href="#PICA-Poster">poster</a>
+<br/>
+
+## Extended Abstracts
+
+Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.** "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming.
+<br/>
+
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://easychair.org/publications/paper/Vtl4) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_GCAI_Driving) | <a href="#GCAI2020-Presentation">presentation</a>
+<br/>
 
 ---
 
