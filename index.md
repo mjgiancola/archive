@@ -52,7 +52,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ## Extended Abstracts
 
-Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.** "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
+Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#AAAI2021SSS-Presentation">presentation</a>
 <br/>
 
