@@ -20,7 +20,7 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 
 ## Book Chapters
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood \& Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
 <br/>
 
 Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
@@ -52,7 +52,8 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ## Extended Abstracts
 
-Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.** "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming.
+Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.** "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#AAAI2021SSS-Presentation">presentation</a>
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
@@ -96,6 +97,16 @@ Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.** "Artificial Ag
 
 <a name="Presentations"></a>
 # Presentations
+
+<a name="AAAI2021SSS-Presentation"></a>
+#### AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 22nd & 23rd, 2021 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virtual <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk on "Artificial Agents to Help Address the U.S. K–12 Math Gap" <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk given jointly with John Angel <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[presentation (my section)](https://youtu.be/d0RO4oZX9uw?list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&t=252) | [presentation (full)](https://youtu.be/d0RO4oZX9uw?list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27) <br>
+<br/>
 
 <a name="GCAI2020-Presentation"></a>
 #### Sixth Global Conference on Artificial Intelligence (GCAI)
