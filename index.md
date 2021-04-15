@@ -53,7 +53,7 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 ## Extended Abstracts
 
 Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#AAAI2021SSS-Presentation">presentation</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2021/AAAI21_SSS_TIPPAE.pdf) | <a href="#AAAI2021SSS-Presentation">presentation</a>
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., and Licato, J. "Adjudication of Symbolic & Connectionist Arguments in Autonomous Driving AI". In: Proceedings of the Sixth Global Conference on Artificial Intelligence (GCAI 2020). Ed. by G. Danoy, J. Pang, and G. Sutcliffe. Volume 72 of EPiC Series in Computing. EasyChair, 2020, pp. 28–33. doi: 10.29007/k647. <br>
