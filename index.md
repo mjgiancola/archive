@@ -16,7 +16,8 @@ title: archive
 
 ## Journal Articles
 
-Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjudication to Solve Ethical Problems in Multi-Agent Environments". In: Paladyn, Journal of Behavioral Robotics. Forthcoming.
+Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjudication to Solve Ethical Problems in Multi-Agent Environments". In: Paladyn, Journal of Behavioral Robotics. Vol. 12, No. 1, 2021, pp. 310-335. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Paper Webpage](https://doi.org/10.1515/pjbr-2021-0009)
 
 ## Book Chapters
 
