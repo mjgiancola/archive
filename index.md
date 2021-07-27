@@ -21,10 +21,12 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 
 ## Book Chapters
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_Hudson_Chapter.pdf)
 <br/>
 
-Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming.
+Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Ed. by M.I.A. Ferreira. Springer, Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/UncomputableNLURobots032421.pdf)
 
 ## Conference Papers
 
