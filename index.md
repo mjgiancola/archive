@@ -30,6 +30,10 @@ Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "T
 
 ## Conference Papers
 
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "A Solution to an Ethical Super Dilemma via a Relaxation of the Doctrine of Triple Effect". In: Life-world for Artificial and Natural Systems (Proceedings of ICRES 2021). Ed. by S. Bringsjord, M.O. Tokhi, M.I.A. Ferreira, N.S. Govindarajulu, M.F. Silva. London, UK: CLAWAR, July. 2021, pp. 23–32. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2021/MG_SB_NSG(2021)-Ethical_Super_Dilemmas.pdf)
+<br/>
+
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S., Varela, C. "Ethical Reasoning for Autonomous Agents Under Uncertainty". In: Smart Living and Quality Health with Robots (Proceedings of ICRES 2020). Ed. by M.O. Tokhi, M.I.A. Ferreira, N.S. Govindarajulu, M.F. Silva, E.E. Kadar, J. Wang, and A.P. Kaur. London, UK: CLAWAR, Sept. 2020, pp. 26–41. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_LogicizationMiracleOnHudson.pdf) | [code](https://github.com/RAIRLab/ShadowAdjudicator/tree/master/adjudicator/demos/2020_ICRES_Ethical_Reasoning) | <a href="#ICRES2020-Presentation">presentation</a>
 <br/>
