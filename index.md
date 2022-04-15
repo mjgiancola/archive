@@ -21,6 +21,10 @@ Bringsjord, S., Govindarajulu, N.S., **Giancola, M.**, "Automated Argument Adjud
 
 ## Book Chapters
 
+Bringsjord, S., **Giancola, M.**, Govindarajulu, N.S. "Logic-Based Modeling of Cognition". In: The Cambridge Handbook of Computational Cognitive Sciences. Ron Sun ed. Cambridge University Press, Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Book Webpage](https://sites.google.com/view/hbcompcogsci/)
+<br/>
+
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_Hudson_Chapter.pdf)
 <br/>
