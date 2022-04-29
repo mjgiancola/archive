@@ -34,6 +34,10 @@ Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "T
 
 ## Conference Papers
 
+Banerjee, S., Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S. "Qualitative Mechanical Problem-Solving by Artificial Agents: Further Progress, Under Psychometric AI". In: Proceedings of the 35th International FLAIRS Conference. Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/BMCT_FLAIRS35_0314221730.pdf)
+<br/>
+
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "A Solution to an Ethical Super Dilemma via a Relaxation of the Doctrine of Triple Effect". In: Life-world for Artificial and Natural Systems (Proceedings of ICRES 2021). Ed. by S. Bringsjord, M.O. Tokhi, M.I.A. Ferreira, N.S. Govindarajulu, M.F. Silva. London, UK: CLAWAR, July. 2021, pp. 23–32. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2021/MG_SB_NSG(2021)-Ethical_Super_Dilemmas.pdf)
 <br/>
