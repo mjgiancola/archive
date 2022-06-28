@@ -25,11 +25,11 @@ Bringsjord, S., **Giancola, M.**, Govindarajulu, N.S. "Logic-Based Modeling of C
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Book Webpage](https://sites.google.com/view/hbcompcogsci/)
 <br/>
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_Hudson_Chapter.pdf)
 <br/>
 
-Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
+Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/UncomputableNLURobots032421.pdf)
 
 ## Conference Papers
@@ -69,6 +69,9 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 <br/>
 
 ## Extended Abstracts
+
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Novel Intensional Defeasible Reasoning for AI: Is it Cognitively Adequate?" In: Proceedings of the IJCAI Workshop on "Cognitive Aspects of Knowledge Representation" (CAKR 2022) CEUR-WS, 2022. Forthcoming.
+
 
 Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2021/AAAI21_SSS_TIPPAE.pdf) | <a href="#AAAI2021SSS-Presentation">presentation</a>
