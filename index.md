@@ -70,8 +70,9 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ## Extended Abstracts
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Novel Intensional Defeasible Reasoning for AI: Is it Cognitively Adequate?" In: Proceedings of the IJCAI Workshop on "Cognitive Aspects of Knowledge Representation" (CAKR 2022) CEUR-WS, 2022. Forthcoming.
-
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Novel Intensional Defeasible Reasoning for AI: Is it Cognitively Adequate?" In: Proceedings of the IJCAI Workshop on "Cognitive Aspects of Knowledge Representation" (CAKR 2022) CEUR-WS, 2022. Forthcoming. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2022/Intensional_Defeasible_Reasoning.pdf)
+<br/>
 
 Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2021/AAAI21_SSS_TIPPAE.pdf) | <a href="#AAAI2021SSS-Presentation">presentation</a>
