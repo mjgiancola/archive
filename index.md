@@ -25,11 +25,11 @@ Bringsjord, S., **Giancola, M.**, Govindarajulu, N.S. "Logic-Based Modeling of C
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Book Webpage](https://sites.google.com/view/hbcompcogsci/)
 <br/>
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N.S., Varela, C. "Making Maximally Ethical Decisions via Cognitive Likelihood & Formal Planning". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, 2022, pp. 127-142. doi: 10.1007/978-3-031-09823-9_10. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/MG_SB_NSG_CV_Hudson_Chapter.pdf)
 <br/>
 
-Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, Forthcoming. <br>
+Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "The (Uncomputable!) Meaning of Ethically Charged Natural Language, for Robots, and Us, From Hypergraphical Inferential Semantics". In: Towards Trustworthy Artificial Intelligent Systems. Maria Isabel Aldinhas Ferreira, Mohammad Osman Tokhi eds. Intelligent Systems, Control and Automation: Science and Engineering. Springer, 2022, pp. 143-167. doi: 10.1007/978-3-031-09823-9\_11. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/UncomputableNLURobots032421.pdf)
 
 ## Conference Papers
