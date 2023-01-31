@@ -34,11 +34,18 @@ Bringsjord, S., Hendler, J., Govindarajulu, N.S., Ghosh, R., **Giancola, M.** "T
 
 ## Conference Papers
 
-Bringsjord, S., Rozek, B., **Giancola, M.**, Govindarajulu, N. S. "A Framework for Testimony-Infused Automated Adjudicative Dynamic Multi-Agent Reasoning in Ethically Charged Scenarios". In: Proceedings of the Seventh International Conference on Robot Ethics and Standards (ICRES 2022). Forthcoming.
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Toward Generating Natural-Language Explanations of Modal Logic Proofs". In: Proceedings of the 15th International Conference on Artificial General Intelligence (AGI-22). Ed. by B. Goertzel, M. Iklé, A. Potapov, D. Ponomaryov. Springer Cham, 2022. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2023/Giancola_etal(2023)-NLG_Modal-Logic_Proofs.pdf)
 <br/>
 
-Banerjee, S., Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S. "Qualitative Mechanical Problem-Solving by Artificial Agents: Further Progress, Under Psychometric AI". In: Proceedings of the 35th International FLAIRS Conference. Forthcoming. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://kryten.mm.rpi.edu/BMCT_FLAIRS35_0314221730.pdf)
+Bringsjord, S., Govindarajulu, N. S., Slowik, J., Oswald, J., **Giancola, M.**, Angel, J., Banerjee, S., Flaherty, A. "PERI.2 Goes to PreSchool and Beyond, in Search of AGI". In: Proceedings of the 15th International Conference on Artificial General Intelligence (AGI-22). Ed. by B. Goertzel, M. Iklé, A. Potapov, D. Ponomaryov. Springer Cham, 2022.
+<br/>
+
+Bringsjord, S., Rozek, B., **Giancola, M.**, Govindarajulu, N. S. "A Framework for Testimony-Infused Automated Adjudicative Dynamic Multi-Agent Reasoning in Ethically Charged Scenarios". In: Proceedings of the Seventh International Conference on Robot Ethics and Standards (ICRES 2022). 2022.
+<br/>
+
+Banerjee, S., Bringsjord, S., **Giancola, M.**, Govindarajulu, N. S. "Qualitative Mechanical Problem-Solving by Artificial Agents: Further Progress, Under Psychometric AI". In: Proceedings of the 35th International FLAIRS Conference. 2022. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://doi.org/10.32473/flairs.v35i.130630)
 <br/>
 
 **Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "A Solution to an Ethical Super Dilemma via a Relaxation of the Doctrine of Triple Effect". In: Proceedings of the Sixth International Conference on Robot Ethics and Standards (ICRES 2021). Ed. by S. Bringsjord, M.O. Tokhi, M.I.A. Ferreira, N.S. Govindarajulu, M.F. Silva. London, UK: CLAWAR, July. 2021, pp. 23–32. <br>
@@ -70,11 +77,11 @@ Mitrano, P., Burklund, J., **Giancola, M.**, and Pinciroli, C. "A Minimalistic A
 
 ## Extended Abstracts
 
-**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Novel Intensional Defeasible Reasoning for AI: Is it Cognitively Adequate?" In: Proceedings of the IJCAI Workshop on "Cognitive Aspects of Knowledge Representation" (CAKR 2022) CEUR-WS, 2022. Forthcoming. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://mjgiancola.github.io/archive/2022/Intensional_Defeasible_Reasoning.pdf)
+**Giancola, M.**, Bringsjord, S., Govindarajulu, N. S. "Novel Intensional Defeasible Reasoning for AI: Is it Cognitively Adequate?" In: Proceedings of the IJCAI Workshop on "Cognitive Aspects of Knowledge Representation" (CAKR 2022) CEUR-WS, 2022. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://ceur-ws.org/Vol-3251/paper9.pdf)
 <br/>
 
-Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, Forthcoming. <br>
+Bringsjord, S., Angel, J., Govindarajulu, N. S., **Giancola, M.**, Bringsjord, E. "Artificial Agents to Help Address the U.S. K--12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth". In: Artificial Intelligence for K--12 Education, Part of the AAAI Spring Symposium Series. CEUR-WS, 2021. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](2021/AAAI21_SSS_TIPPAE.pdf) | <a href="#AAAI2021SSS-Presentation">presentation</a>
 <br/>
 
